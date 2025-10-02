@@ -50,15 +50,23 @@ npm install
 cd client && npm install
 
 3. Create a .env file inside server/ and add:
+
     MONGO_URI=your_mongodb_url  
     JWT_SECRET=your_secret_key  
     PORT=5000
 
-4. Start the backend server
+5. Start the backend server : -
+   
    nodemon server.js
-5. Start the frontend
+7. Start the frontend :-
+   
    cd frontend
    npm run dev
+
+ 🏠 Home Page
+ 
+ <img width="1589" height="720" alt="Screenshot 2025-10-02 082643" src="https://github.com/user-attachments/assets/a2813a0c-7bb6-4dea-b26d-7dcbe7619725" />
+
 
 
   
